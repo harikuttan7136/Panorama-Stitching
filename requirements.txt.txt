@@ -1,0 +1,6 @@
+python>3.5
+opencv2
+numpy
+pandas
+matplotlib
+glob
